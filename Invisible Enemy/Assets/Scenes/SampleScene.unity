@@ -133,6 +133,8 @@ GameObject:
   - component: {fileID: 386370354}
   - component: {fileID: 386370353}
   - component: {fileID: 386370352}
+  - component: {fileID: 386370356}
+  - component: {fileID: 386370357}
   - component: {fileID: 386370351}
   m_Layer: 0
   m_Name: Square
@@ -153,7 +155,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78bc0e2fedf7273418d5f66c1be96cea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementspeed: 4
+  speed: 3
+  jumpHeight: 4
+  isGrounded: 0
 --- !u!50 &386370352
 Rigidbody2D:
   serializedVersion: 4
@@ -265,6 +269,53 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &386370356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 386370350}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a166b53353a610459ea8d08b7cef3dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_JumpForce: 400
+  m_CrouchSpeed: 0.36
+  m_MovementSmoothing: 0.05
+  m_AirControl: 0
+  m_WhatIsGround:
+    m_Bits: 256
+  m_GroundCheck: {fileID: 0}
+  m_CeilingCheck: {fileID: 0}
+  m_CrouchDisableCollider: {fileID: 0}
+  m_Grounded: 0
+  m_Rigidbody2D: {fileID: 0}
+  m_FacingRight: 1
+  m_Velocity: {x: 0, y: 0, z: 0}
+  OnLandEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_CallsDirty: 1
+  OnCrouchEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_CallsDirty: 1
+  m_wasCrouching: 0
+--- !u!114 &386370357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 386370350}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f023e9e638ee1584590ccdd1080a85fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Player: {fileID: 386370350}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -359,9 +410,9 @@ GameObject:
   - component: {fileID: 2043575255}
   - component: {fileID: 2043575254}
   - component: {fileID: 2043575253}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Square (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
