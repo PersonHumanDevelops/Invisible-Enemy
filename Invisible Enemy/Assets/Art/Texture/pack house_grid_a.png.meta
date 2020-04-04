@@ -1,0 +1,968 @@
+fileFormatVersion: 2
+guid: b202871b1dab15c4393aaf839d3fe18c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2889841528503242031
+    second: pack house_grid_a_0
+  - first:
+      213: 7156822978913929875
+    second: pack house_grid_a_1
+  - first:
+      213: 3529658809445348781
+    second: pack house_grid_a_2
+  - first:
+      213: 2029060826142750623
+    second: pack house_grid_a_3
+  - first:
+      213: 2726729489179053442
+    second: pack house_grid_a_4
+  - first:
+      213: 7723496917258860129
+    second: pack house_grid_a_5
+  - first:
+      213: -4947325782838780637
+    second: pack house_grid_a_6
+  - first:
+      213: -3154452334363075873
+    second: pack house_grid_a_7
+  - first:
+      213: -8632765032119064642
+    second: pack house_grid_a_8
+  - first:
+      213: -2673036147596044344
+    second: pack house_grid_a_9
+  - first:
+      213: -6072731025724999807
+    second: pack house_grid_a_10
+  - first:
+      213: 6165797668793594477
+    second: pack house_grid_a_11
+  - first:
+      213: 5940875594314581004
+    second: pack house_grid_a_12
+  - first:
+      213: -3997417899264423738
+    second: pack house_grid_a_13
+  - first:
+      213: -1675504191156809899
+    second: pack house_grid_a_14
+  - first:
+      213: 7664711689205510456
+    second: pack house_grid_a_15
+  - first:
+      213: 2659319059941558530
+    second: pack house_grid_a_16
+  - first:
+      213: 1103074001806076862
+    second: pack house_grid_a_17
+  - first:
+      213: 7487796183725930977
+    second: pack house_grid_a_18
+  - first:
+      213: 6851569054654965969
+    second: pack house_grid_a_19
+  - first:
+      213: -4537653278571864785
+    second: pack house_grid_a_20
+  - first:
+      213: -6104961403162565897
+    second: pack house_grid_a_21
+  - first:
+      213: -1698268857980797298
+    second: pack house_grid_a_22
+  - first:
+      213: -6291481408624893019
+    second: pack house_grid_a_23
+  - first:
+      213: -4500949733880695554
+    second: pack house_grid_a_24
+  - first:
+      213: 36792469688882605
+    second: pack house_grid_a_25
+  - first:
+      213: 5794020724855620329
+    second: pack house_grid_a_26
+  - first:
+      213: -5929135159713248320
+    second: pack house_grid_a_27
+  - first:
+      213: 8504556115450552772
+    second: pack house_grid_a_28
+  - first:
+      213: -8748012943270866225
+    second: pack house_grid_a_29
+  - first:
+      213: 815206082413358175
+    second: pack house_grid_a_30
+  - first:
+      213: 2600614795522292550
+    second: pack house_grid_a_31
+  - first:
+      213: -3196796621235162407
+    second: pack house_grid_a_32
+  - first:
+      213: 8028421515004052857
+    second: pack house_grid_a_33
+  - first:
+      213: -6677015776376786948
+    second: pack house_grid_a_34
+  - first:
+      213: 8792182864635503072
+    second: pack house_grid_a_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 192
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pack house_grid_a_0
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 824
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d8b932f87ca1820800000000000000
+      internalID: 2889841528503242031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_1
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 824
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a8482b494225360800000000000000
+      internalID: 7156822978913929875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_2
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 824
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5715b7cfddbf030800000000000000
+      internalID: 3529658809445348781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_3
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 824
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9736e9221ca82c10800000000000000
+      internalID: 2029060826142750623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_4
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 824
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d8919060a47d520800000000000000
+      internalID: 2726729489179053442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_5
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 824
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166f901868f5f2b60800000000000000
+      internalID: 7723496917258860129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 632
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d53cd9961975bb0800000000000000
+      internalID: -4947325782838780637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 632
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda136d90522934d0800000000000000
+      internalID: -3154452334363075873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 632
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7212f01f1423880800000000000000
+      internalID: -8632765032119064642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 632
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c752ce39c777ead0800000000000000
+      internalID: -2673036147596044344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 632
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187fa2b8e4359bba0800000000000000
+      internalID: -6072731025724999807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_11
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 632
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62bf5ddf40519550800000000000000
+      internalID: 6165797668793594477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_12
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 632
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0488ed70ea327250800000000000000
+      internalID: 5940875594314581004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 632
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c84e8f89915688c0800000000000000
+      internalID: -3997417899264423738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_14
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 632
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f8b6ab0d96fb8e0800000000000000
+      internalID: -1675504191156809899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 440
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831f0e40ca68e5a60800000000000000
+      internalID: 7664711689205510456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 440
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2090e38689cc7e420800000000000000
+      internalID: 2659319059941558530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 440
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbae96d5f7ee4f00800000000000000
+      internalID: 1103074001806076862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 440
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9728105fef9e760800000000000000
+      internalID: 7487796183725930977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_19
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 440
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8a4c801c9a51f50800000000000000
+      internalID: 6851569054654965969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_20
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 440
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d56d872640701c0800000000000000
+      internalID: -4537653278571864785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 440
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2660503f1d64ba0800000000000000
+      internalID: -6104961403162565897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 440
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e32f2b8798e68e0800000000000000
+      internalID: -1698268857980797298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_23
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 440
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a360f71efa20b8a0800000000000000
+      internalID: -6291481408624893019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 248
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4f628601a6981c0800000000000000
+      internalID: -4500949733880695554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 248
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da517366e86b28000800000000000000
+      internalID: 36792469688882605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 248
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e24546b62f786050800000000000000
+      internalID: 5794020724855620329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 248
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb43047cfa77bda0800000000000000
+      internalID: -5929135159713248320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_28
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 248
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c16ec95ab0460670800000000000000
+      internalID: 8504556115450552772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_29
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 248
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc212d9b390d89680800000000000000
+      internalID: -8748012943270866225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 248
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c6cf0ec91305b00800000000000000
+      internalID: 815206082413358175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 56
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b3bbcb06d371420800000000000000
+      internalID: 2600614795522292550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_32
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 56
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2fb1c0962b2a3d0800000000000000
+      internalID: -3196796621235162407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_33
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 56
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9758becd4deaa6f60800000000000000
+      internalID: 8028421515004052857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_34
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 56
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffe16917897653a0800000000000000
+      internalID: -6677015776376786948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack house_grid_a_35
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 56
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e120ee7bbb140a70800000000000000
+      internalID: 8792182864635503072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
