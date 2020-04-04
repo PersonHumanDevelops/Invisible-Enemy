@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\Movement\Movement.cs" />
     <Compile Include="Assets\Scripts\PreGame\SpawnPoint.cs" />
     <Compile Include="Assets\Scripts\Stress\Shake.cs" />
+    <Compile Include="Assets\Scripts\Stress\Stress.cs" />
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
       <HintPath>D:/Projet_Unity/Invisible ennemy/Invisible-Enemy/Invisible Enemy/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
     </Reference>
